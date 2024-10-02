@@ -1,3 +1,3 @@
 # resource
 
-Definitions of resource structure which is shared among responses in `dto`.
+Definition of resource structures which are shared among responses in `dto`.
