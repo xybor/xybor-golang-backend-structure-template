@@ -1,3 +1,3 @@
 # resource
 
-Definitions of resource structure which is vierwed by the end user.
+Definitions of resource structure which is shared among responses in adapter.
